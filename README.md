@@ -20,12 +20,18 @@ The objective of this project was to transform raw incident data into an interac
 - Examined patterns across incident categories
 - Used filters to allow interactive exploration of the data
 - Created visualizations designed to highlight major trends and differences
+  
+### Dashboard 
+
+The Tableau dashboard was designed to make incident patterns across New York City easy to explore and understand.
+
+![NYC Incident Dashboard](nyc-dashboard.png)
 
 ### Dashboard Features
 
 - Interactive filters
 - Geographic analysis
 - Incident category comparisons
-- Trend analysis
-- Clear visual summaries for decision-making
+- Story explaining the significance of each chart on the dashboard
+
 
